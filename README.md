@@ -1,5 +1,4 @@
 # SupurgeOmer-PeoplePlayground
-Fış Fış Süpürge Ömer Modu
-FIŞ FIŞ Ömer'in Süpürgesi işte
+Whisk mod for People Playground
 
 Note: There is no .json file.
